@@ -1,0 +1,22 @@
+.footer {
+  text-align: center;
+  background-color: #2C2B2B;
+  color: #6B6C6C;
+  padding: 50px;
+}
+
+.footer p {
+  margin: 0;
+}
+
+.socials {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+.fab {
+  margin: 10px;
+  color: #1EDD87;
+  font-size: 30px;
+}
